@@ -109,7 +109,6 @@
         <p><strong>Python, Streamlit, HuggingFace, ChromaDB</strong> — Built a semantic movie recommendation engine with transformer-based embeddings and vector similarity search, deployed with a Streamlit UI.</p>
       </div>
     </td>
-
     <td width="50%">
       <h3 align="center">Simple RAG-Based Chatbot</h3>
       <div align="center">
@@ -127,54 +126,33 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Weather Forecast App with AI Chatbot</h3>
+      <h3 align="center">Gesture-Controlled Mouse using MLP</h3>
       <div align="center">
-        <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Project 3"/></a>
+        <a href="https://github.com/Hamza0590/Virtual-Mouse-Movement" target="_blank">
+          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Gesture Mouse"/>
+        </a>
         <p>
-          <a href="#" target="_blank">
+          <a href="https://github.com/Hamza0590/Virtual-Mouse-Movement" target="_blank">
             <img src="https://img.shields.io/badge/Code-6E48AA?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>  
-          <a href="https://muhammadawaisrafique.github.io/WeatherForecastApp/" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-9E6EFE?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </p>
-        <p><strong>JavaScript, API Integration</strong> - Integrated OpenWeather API for real-time weather data with Generative AI chatbot for weather-related queries.</p>
+        <p><strong>Python, TensorFlow, CV2, PyAutoGUI</strong> — Achieved 97% accuracy using an MLP model to classify real-time hand gestures for cursor control with optimized smoothing.</p>
       </div>
     </td>
-    <td width="50%">
-      <h3 align="center">Air Traffic Control System</h3>
-      <div align="center">
-        <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Project 4"/></a>
-        <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Code-6E48AA?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>  
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-9E6EFE?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>C++, OOP</strong> - Simulated flight scheduling and route management with collision detection algorithms and object-oriented architecture.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
- 
    <td width="50%">
-      <h3 align="center">Internees Management System</h3>
+      <h3 align="center">Street Fighter II – AI Game Bot</h3>
       <div align="center">
-        <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Project 1"/></a>
+        <a href="https://github.com/Hamza0590/AI-Game-Bot" target="_blank">
+          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="AI Game Bot"/>
+        </a>
         <p>
-          <a href="#" target="_blank">
+          <a href="https://github.com/Hamza0590/AI-Game-Bot" target="_blank">
             <img src="https://img.shields.io/badge/Code-6E48AA?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>  
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-9E6EFE?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </p>
-        <p><strong>MERN Stack</strong> - Role-based access control system with automated workflows for internship applications and approvals. Features responsive UI with modern design patterns.</p>
+        <p><strong>Python, TensorFlow, Scikit-Learn</strong> — Trained an MLP-based agent achieving a 60% win rate against CPU by modeling in-game states and optimizing hyperparameters.</p>
       </div>
     </td>
-
   </tr>
 </table>
 </div>
