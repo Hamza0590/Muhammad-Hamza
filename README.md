@@ -157,18 +157,18 @@
 </table>
 </div>
 
-## 📜 Certifications & Education
+<!-- ## 📜 Certifications & Education
 
 <div align="center">
   <img src="https://img.shields.io/badge/Product_Management-Google_Coursera-6E48AA?style=for-the-badge&logo=google&logoColor=white" alt="Google Certification" />
   <img src="https://img.shields.io/badge/Visual_C++_Programming-Udemy-9E6EFE?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy Certification" />
   <img src="https://img.shields.io/badge/BS_Software_Engineering-FAST_NUCES-6E48AA?style=for-the-badge&logo=bookstack&logoColor=white" alt="Education" />
-</div>
+</div> -->
 
 ## 📈 GitHub Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAwaisRafique&bg_color=0D1117&color=9E6EFE&line=6E48AA&point=9E6EFE&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza0590&bg_color=0D1117&color=9E6EFE&line=6E48AA&point=9E6EFE&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
 <div align="center">
