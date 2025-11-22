@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadAwaisRafique&color=6E48AA&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Hamza0590&color=6E48AA&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ## 💫 About Me
