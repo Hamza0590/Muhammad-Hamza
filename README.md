@@ -96,6 +96,20 @@
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">Medical Chatbot</h3>
+      <div align="center">
+        <a href="https://github.com/Hamza0590/Medical_Chatbot" target="_blank">
+          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="RAG Chatbot"/>
+        </a>
+        <p>
+          <a href="https://github.com/Hamza0590/Medical_Chatbot" target="_blank">
+            <img src="https://img.shields.io/badge/Code-6E48AA?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Python, Pinecone, Groq, LangChain, Sentence Transformers, flask</strong> — Built a medical chatbot using RAG (Retrieval Augmented Generation) to provide accurate medical information.</p>
+      </div>
+    </td>
+    <td width="50%">
       <h3 align="center">Semantic Movie Recommendation System</h3>
       <div align="center">
         <a href="https://github.com/Hamza0590/Semantic-Movie-Recommendation-System-" target="_blank">
@@ -107,20 +121,6 @@
           </a>
         </p>
         <p><strong>Python, Streamlit, HuggingFace, ChromaDB</strong> — Built a semantic movie recommendation engine with transformer-based embeddings and vector similarity search, deployed with a Streamlit UI.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Simple RAG-Based Chatbot</h3>
-      <div align="center">
-        <a href="https://github.com/Hamza0590/Simple-RAG-Base-Chatbot" target="_blank">
-          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="RAG Chatbot"/>
-        </a>
-        <p>
-          <a href="https://github.com/Hamza0590/Simple-RAG-Base-Chatbot" target="_blank">
-            <img src="https://img.shields.io/badge/Code-6E48AA?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>Python, Weaviate, Sentence Transformers</strong> — Document QA chatbot supporting PDF, DOC, and TXT formats with customizable chunking, context retrieval, and vector search.</p>
       </div>
     </td>
   </tr>
